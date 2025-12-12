@@ -14,34 +14,28 @@
 </p>
 
 <!-- https://github.com/anuraghazra/github-readme-stats -->
-<table align="center">
-  <tr>
-    <td>
-      <picture>
-        <source
-          media="(prefers-color-scheme: dark)"
-          srcset="https://github-readme-stats-lime-one-27.vercel.app/api?username=ChinoKou&show_icons=true&line_height=24&hide_border=true&theme=dark"
-        />
-        <img
-          src="https://github-readme-stats-lime-one-27.vercel.app/api?username=ChinoKou&show_icons=true&line_height=24&hide_border=true"
-          alt="ChinoKou"
-        />
-      </picture>
-    </td>
-    <td>
-      <picture>
-        <source
-          media="(prefers-color-scheme: dark)"
-          srcset="https://github-readme-stats-lime-one-27.vercel.app/api/top-langs?username=ChinoKou&layout=compact&hide_border=true&theme=dark"
-        />
-        <img
-          src="https://github-readme-stats-lime-one-27.vercel.app/api/top-langs?username=ChinoKou&layout=compact&hide_border=true"
-          alt="ChinoKou"
-        />
-      </picture>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://github-readme-stats-lime-one-27.vercel.app/api?username=ChinoKou&show_icons=true&line_height=24&hide_border=true&theme=dark"
+    />
+    <img
+      src="https://github-readme-stats-lime-one-27.vercel.app/api?username=ChinoKou&show_icons=true&line_height=24&hide_border=true"
+      alt="ChinoKou"
+    />
+  </picture>
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://github-readme-stats-lime-one-27.vercel.app/api/top-langs?username=ChinoKou&layout=compact&hide_border=true&theme=dark"
+    />
+    <img
+      src="https://github-readme-stats-lime-one-27.vercel.app/api/top-langs?username=ChinoKou&layout=compact&hide_border=true"
+      alt="ChinoKou"
+    />
+  </picture>
+</p>
 
 <!-- https://github.com/abozanona/pacman-contribution-graph -->
 <p align="center">

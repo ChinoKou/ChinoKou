@@ -58,7 +58,7 @@
   </picture>
 </p>
 
-<!-- https://github.com/rahuldkjain/github-profile-readme-generator -->
+<!-- https://github.com/danielcranney/profileme-dev -->
 <p align="center">
   <a href="https://www.python.org/" target="_blank" rel="noreferrer">
     <img
@@ -155,7 +155,7 @@
     target="_blank"
     rel="noreferrer"
     ><img
-      src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flask-colored-dark.svg"
+      src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flask-colored.svg"
       alt="Flask"
       title="Flask"
       width="36"
@@ -183,7 +183,7 @@
       height="36" /></a
   ><a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"
     ><img
-      src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored-dark.svg"
+      src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored.svg"
       alt="Django"
       title="Django"
       width="36"

@@ -48,11 +48,11 @@
   <picture>
     <source
       media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/ChinoKou/ChinoKou/output/pacman-contribution-graph-dark.svg"
+      srcset="https://raw.githubusercontent.com/ChinoKou/ChinoKou/output/dist/pacman-contribution-graph-dark.svg"
     />
     <img
       width="840"
-      src="https://raw.githubusercontent.com/ChinoKou/ChinoKou/output/pacman-contribution-graph.svg"
+      src="https://raw.githubusercontent.com/ChinoKou/ChinoKou/output/dist/pacman-contribution-graph.svg"
       alt="Contribution Graph"
     />
   </picture>

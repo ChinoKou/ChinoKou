@@ -9,7 +9,7 @@
 <p align="center">
   <img
     width="850"
-    src="https://readme-typing-svg.demolab.com?font=Google+Sans&color=66CCFF&pause=1000&width=435&center=true&vCenter=true&lines=Welcome+to+my+GitHub+profile+page!%3bI+am+a+passionate+Python+developer!"
+    src="https://readme-typing-svg.demolab.com?font=Google+Sans&color=FECCFF&pause=1000&width=435&size=22&center=true&vCenter=true&lines=TECH+OTAKUS+SAVE+THE+WORLD"
   />
 </p>
 
@@ -215,6 +215,6 @@
 <!-- https://github.com/kyechan99/capsule-render -->
 <p align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&animation=twinkling&color=gradient&customColorList=1&height=260&section=footer&text=THE%20END&fontSize=90&fontAlign=50&fontAlignY=78&desc=Hope%20your%20program%20is%20bug-free&descAlign=50&descSize=30&descAlignY=46"
+    src="https://capsule-render.vercel.app/api?type=waving&animation=twinkling&color=gradient&customColorList=1&height=260&section=footer&text=THE%20END&fontSize=90&fontAlign=50&fontAlignY=65"
   />
 </p>
